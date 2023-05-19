@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    align-items: center;
+    height: 499px;
+    width: 888px;
+}
+
+.sert{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 578px;
+    width: 888px;
+    margin: 0;
+}
+ 
